@@ -99,7 +99,4 @@ public class Hw_4 {
          return n;
      }
 
-
-
-
 }
