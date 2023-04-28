@@ -17,7 +17,6 @@ public class Hw_4 {
     *реализовать вторую задачу через собственный класс используя в основе массив
      */
 
-    private LinkedList<Integer> listLin = new LinkedList<>();
     private int num = 0;
     private int number = 0;
 
