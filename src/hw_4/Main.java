@@ -18,6 +18,7 @@ public class Main {
         ex();
     }
 
+
     static void ex(){
         System.out.print("Введите длину листа: ");
         Hw_4 linkedList = new Hw_4();
